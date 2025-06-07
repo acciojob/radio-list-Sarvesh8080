@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+label {
+      display: block;
+      font-size: 20px;
+      margin: 10px 0;
+	cursor:pointer;
+    }
+
+.input {
+      color: red;
+    }
